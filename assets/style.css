@@ -37,7 +37,7 @@ body {
 
 .nav a {
 	text-decoration: none;
-	color: #000
+	color: #000000;
 }
 
 .social-link img {
@@ -266,6 +266,13 @@ form {
 	width: 70%;
 	align-items: flex-start;
 }
+
+form label { 
+	color: #000000;
+	font-weight: 500;
+	margin-bottom: 5px;
+}
+
 
 form input {
 	width: 100%;
